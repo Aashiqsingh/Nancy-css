@@ -14,3 +14,5 @@ There are three ways to define css.
 identifier:
 
 element --> tag
+class 
+id 
